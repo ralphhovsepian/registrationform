@@ -1,0 +1,17 @@
+.Form h4 {
+  padding: 50px;
+}
+
+.Form .dropdown-menu {
+  height: 200px;
+  overflow-y: auto;
+}
+
+.Form #chooseCountry img {
+  width: 20px;
+}
+
+.Form label {
+  color: #758690;
+}
+/*# sourceMappingURL=Form.css.map */

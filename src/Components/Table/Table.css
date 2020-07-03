@@ -1,0 +1,16 @@
+.Table {
+  margin: 30% 0;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+}
+
+.Table table {
+  margin-top: 50px;
+}
+
+.Table tr,
+.Table th {
+  color: #758690;
+}
+/*# sourceMappingURL=Table.css.map */
